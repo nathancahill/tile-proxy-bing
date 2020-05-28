@@ -1,0 +1,7 @@
+name = "gaiagps-bing"
+type = "javascript"
+account_id = ""
+workers_dev = true
+kv-namespaces = [
+    { binding = "ENDPOINTS", id = "" }
+]
